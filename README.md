@@ -1,6 +1,6 @@
 
 ## Hello my name is Bruno
-<div align="center">
+
   <a href="https://github.com/brdacostac">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brdacostac&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <div style="display: inline_block"><br>
@@ -13,7 +13,7 @@
     <img align="center" alt="Bruno-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
     <img align="center" alt="Bruno-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
   </div>
-</div>
+
   
 ##
  
