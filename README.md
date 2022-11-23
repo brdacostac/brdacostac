@@ -1,5 +1,5 @@
 
-## Hello my name is Bruno
+## Hello, my name is Bruno and I am a Junior developer at Université Clermont Auvergne.
 
   <a href="https://github.com/brdacostac">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brdacostac&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
